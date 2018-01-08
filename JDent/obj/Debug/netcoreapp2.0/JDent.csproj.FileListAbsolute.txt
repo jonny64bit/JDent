@@ -1,0 +1,11 @@
+C:\GitHub\JDent\JDent\bin\Debug\netcoreapp2.0\JDent.deps.json
+C:\GitHub\JDent\JDent\bin\Debug\netcoreapp2.0\JDent.runtimeconfig.json
+C:\GitHub\JDent\JDent\bin\Debug\netcoreapp2.0\JDent.runtimeconfig.dev.json
+C:\GitHub\JDent\JDent\bin\Debug\netcoreapp2.0\JDent.dll
+C:\GitHub\JDent\JDent\bin\Debug\netcoreapp2.0\JDent.pdb
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.csprojResolveAssemblyReference.cache
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.csproj.CoreCompileInputs.cache
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.AssemblyInfoInputs.cache
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.AssemblyInfo.cs
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.dll
+C:\GitHub\JDent\JDent\obj\Debug\netcoreapp2.0\JDent.pdb
