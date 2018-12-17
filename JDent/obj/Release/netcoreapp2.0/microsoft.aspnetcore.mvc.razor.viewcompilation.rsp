@@ -1,0 +1,8 @@
+C:\GitHub\JDent\JDent
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=JDent
+--content-root=C:\GitHub\JDent\JDent
+--file=C:\GitHub\JDent\JDent\Views\Home\Index.cshtml
+--file=C:\GitHub\JDent\JDent\Views\Shared\_Layout.cshtml
+--file=C:\GitHub\JDent\JDent\Views\_ViewImports.cshtml
+--file=C:\GitHub\JDent\JDent\Views\_ViewStart.cshtml

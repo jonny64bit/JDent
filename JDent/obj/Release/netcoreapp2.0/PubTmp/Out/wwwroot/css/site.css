@@ -1,0 +1,12 @@
+html, body, .container {
+    height: 100%;
+}
+
+#title {
+    min-height: 200px;
+    height: 30%
+}
+
+#title H1 {
+    height: 100%;
+}
