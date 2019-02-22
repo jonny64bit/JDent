@@ -1,2 +1,0 @@
-# JDent
-JDent
